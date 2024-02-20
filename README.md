@@ -1,4 +1,4 @@
-# Summary 
+# Summary
 This is a summary of the topics discussed in lessons 1.1 to 1.3 thus far. When you have received the topics, try some of the challenges at the very bottom of this document.
 
 ## Variables
@@ -165,7 +165,7 @@ Locker Assigned: True
 ## Problem 2
 Now, modify `collectdata.py` so that it prompts for a first name and last name, but outputs the data as one:
 
-#### Example Run 2
+#### Example Run 2 done
 ```
 Enter your first name: David
 Enter your last name: Cheng
@@ -179,7 +179,7 @@ Current Mark: 92.3
 Locker Assigned: True
 ```
 
-## Problem 3
+## Problem 3 still to do 
 Going to a restaurant in a large group can be a complicated experience, particularly when it comes to splitting the bill. 
 
 Write a program `billsplitter.py` that calculates how much each person should pay based on a group meal's total bill after-tax. Ask the user for input (size of group, total bill, desired tip) and output the amount each person should pay.
